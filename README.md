@@ -1,6 +1,6 @@
 # Spaghetti Refactory
 
-![Spaghetti Refactory](./SPAGHETTI-REFACTORY.PNG)
+![Spaghetti Refactory](./SPAGHETTI-REFACTORY.jpg)
 
 **Spaghetti Refactory** is an early public scaffold for a recovery framework for software that was built fast, grew messy, and became hard to understand.
 
@@ -142,4 +142,3 @@ License is currently **TBD**. Until an official license is selected, all rights 
 This project is public as an early concept scaffold, not yet as a formally licensed open-source release.
 
 Community support, contribution guidance, and open-source project elements are coming very soon.
-
